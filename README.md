@@ -19,7 +19,7 @@ v-add-mail-account-forward USER DOMAIN ACCOUNT FORWARD
 v-add-mail-account-fwd-only USER DOMAIN ACCOUNT
 v-add-mail-domain USER DOMAIN [ANTISPAM] [ANTIVIRUS] [DKIM] [DKIM_SIZE]
 v-add-mail-domain-antispam USER DOMAIN
-v-add-mail-domain-antivirus USER DOMAIN
+v-add-mail-domain-antivirus USER DOMAIN 
 v-add-mail-domain-catchall USER DOMAIN EMAIL
 v-add-mail-domain-dkim USER DOMAIN [DKIM_SIZE]
 v-add-remote-dns-domain USER DOMAIN [FLUSH]
